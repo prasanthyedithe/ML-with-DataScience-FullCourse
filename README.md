@@ -1,4 +1,4 @@
-# Data Science ML Full Stack
+# ML with DataScience Full Course
 
 # 1 | Python Programming and Logic Building
 I will prefer Python Programming Language. Python is the best for starting your programming journey. Here is the roadmap of python for logic building.
